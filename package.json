@@ -1,0 +1,28 @@
+{
+  "name": "contadorPersonal_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "mongodb": "^3.4.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exiled212/contadorPersonal_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exiled212/contadorPersonal_backend/issues"
+  },
+  "homepage": "https://github.com/exiled212/contadorPersonal_backend#readme"
+}
